@@ -22,9 +22,9 @@ Please install the following npm packages before running the script
 - npm
 - [puppeteer](https://npmjs.com/puppeteer)
 - [cheerio](https://npmjs.com/cheerio)
-- [nodemailer](https://npmjs.com/sendgrid)
-- [prompt-sync](https://npmjs.com/cron)
-- [puppeteer-autoscroll-down](https://npmjs.com/cron)
+- [nodemailer](https://nodemailer.com/about/)
+- [prompt-sync](https://www.npmjs.com/package/prompt-sync)
+- [puppeteer-autoscroll-down](https://www.npmjs.com/package/puppeteer-autoscroll-down)
 
 To install the dependencies run:
 
