@@ -35,7 +35,7 @@ npm install dependencies
 ## Usage
 
 The project is a Nodejs script that can be run from the command line.
-Use 
+Type 
 
 ```js
 node index.js
@@ -45,4 +45,4 @@ to run the script
 
 ## Demo Video
 
-<img src="1.mp4">
+- [Link](https://streamable.com/3zzzhr)
