@@ -45,4 +45,4 @@ to run the script
 
 ## Demo Video
 
-<video src="./1.mp4"></video>
+<img src="1.mp4">
