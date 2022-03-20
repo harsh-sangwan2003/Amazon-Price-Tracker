@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cron": "^1.8.2",
+    "nodemailer": "^6.7.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^13.5.1",
+    "puppeteer-autoscroll-down": "^1.1.0"
+  }
+}
