@@ -78,6 +78,7 @@ try {
 
     }
 
+    //For more info about nodemailer -> https://nodemailer.com/about/
     async function sendNotification(price, fullLink) {
 
         const transporter = nodemailer.createTransport({
@@ -86,8 +87,9 @@ try {
             port: 587,
             auth: {
 
-                user: "temp2-harsh@outlook.com",
-                pass: "P@ssw0rD5576"
+                //Please specify your outlook account and password here
+                user: "****@outlook.com",
+                pass: "****"
             }
         });
 
@@ -96,7 +98,7 @@ try {
 
         const options = {
 
-            from: "temp2-harsh@outlook.com",
+            from: "*****@outlook.com",
             to: "hsangwan2002@gmail.com",
             subject: "Sending email with node-mailer!",
             text: textToSend,
