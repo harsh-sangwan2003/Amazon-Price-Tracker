@@ -44,5 +44,3 @@ to run the script
 
 
 ## Demo Video
-
-- [Link](https://streamable.com/3zzzhr)
