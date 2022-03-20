@@ -36,11 +36,13 @@ npm install dependencies
 
 The project is a Nodejs script that can be run from the command line.
 Use 
-```node index.js
+
+```js
+node index.js
 ``` 
 to run the script
 
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/28717686/158068407-8331c5ff-81da-4974-92ff-5c1581f4515c.mp4
+<video src="./1.mp4"></video>
